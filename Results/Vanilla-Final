@@ -1,0 +1,572 @@
+Trial 0 :
+Macro-ave B3 recall : 29.8782911302
+Macro-ave B3 precision : 99.0892954475
+Macro-ave B3 F1 : 43.9508339783
+Macro-ave MUC recall : 0.905991726425
+Macro-ave MUC precision : 0.886169016273
+Macro-ave MUC F1 : 0.822563111505
+Macro-ave CEAF recall : 52.4455219825
+Macro-ave CEAF precision : 16.157113097
+Macro-ave CEAF F1 : 24.0243222388
+OVER
+Trial 1 :
+Macro-ave B3 recall : 29.5547349045
+Macro-ave B3 precision : 99.4402855767
+Macro-ave B3 F1 : 44.1745763272
+Macro-ave MUC recall : 0.525596193681
+Macro-ave MUC precision : 0.626012210324
+Macro-ave MUC F1 : 0.546109143188
+Macro-ave CEAF recall : 52.6579133533
+Macro-ave CEAF precision : 16.1474229128
+Macro-ave CEAF F1 : 24.1495608743
+OVER
+Trial 2 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 3 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 4 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 5 :
+Macro-ave B3 recall : 29.2707916134
+Macro-ave B3 precision : 99.7777090785
+Macro-ave B3 F1 : 44.2848483003
+Macro-ave MUC recall : 0.202914591404
+Macro-ave MUC precision : 0.349169400063
+Macro-ave MUC F1 : 0.25666951855
+Macro-ave CEAF recall : 52.804931615
+Macro-ave CEAF precision : 16.0914717766
+Macro-ave CEAF F1 : 24.1565798986
+OVER
+Trial 6 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 7 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 8 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 9 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 10 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 11 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 12 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 13 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 14 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 15 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 16 :
+Macro-ave B3 recall : 29.8340183806
+Macro-ave B3 precision : 98.3891774666
+Macro-ave B3 F1 : 44.4989049448
+Macro-ave MUC recall : 1.60537328793
+Macro-ave MUC precision : 12.129650856
+Macro-ave MUC F1 : 2.14169652161
+Macro-ave CEAF recall : 53.4573704795
+Macro-ave CEAF precision : 17.2472677737
+Macro-ave CEAF F1 : 25.2608239695
+OVER
+Trial 17 :
+Macro-ave B3 recall : 29.2052474835
+Macro-ave B3 precision : 99.831704507
+Macro-ave B3 F1 : 44.2529562833
+Macro-ave MUC recall : 0.111294306144
+Macro-ave MUC precision : 2.12503696273
+Macro-ave MUC F1 : 0.198758212388
+Macro-ave CEAF recall : 52.8847352764
+Macro-ave CEAF precision : 16.1028321008
+Macro-ave CEAF F1 : 24.177280396
+OVER
+Trial 18 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 19 :
+Macro-ave B3 recall : 29.2194233817
+Macro-ave B3 precision : 99.6077793322
+Macro-ave B3 F1 : 44.2477671322
+Macro-ave MUC recall : 0.151158575191
+Macro-ave MUC precision : 3.12872863317
+Macro-ave MUC F1 : 0.2736796519
+Macro-ave CEAF recall : 52.8849905233
+Macro-ave CEAF precision : 16.1409095875
+Macro-ave CEAF F1 : 24.2216781512
+OVER
+Trial 20 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 21 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 22 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 23 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 24 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 25 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 99.999691134
+Macro-ave B3 F1 : 44.1991835735
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778613686
+Macro-ave CEAF F1 : 24.1413229826
+OVER
+Trial 26 :
+Macro-ave B3 recall : 31.9165881678
+Macro-ave B3 precision : 96.8869557742
+Macro-ave B3 F1 : 45.9081614229
+Macro-ave MUC recall : 6.2301350957
+Macro-ave MUC precision : 33.0316742081
+Macro-ave MUC F1 : 7.9033452179
+Macro-ave CEAF recall : 55.5610603682
+Macro-ave CEAF precision : 20.1203022934
+Macro-ave CEAF F1 : 28.07058716
+OVER
+Trial 27 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 28 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 29 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 30 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 31 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 32 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 33 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 34 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 35 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 36 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 37 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 38 :
+Macro-ave B3 recall : 31.9165881678
+Macro-ave B3 precision : 96.8869557742
+Macro-ave B3 F1 : 45.9081614229
+Macro-ave MUC recall : 6.2301350957
+Macro-ave MUC precision : 33.0316742081
+Macro-ave MUC F1 : 7.9033452179
+Macro-ave CEAF recall : 55.5610603682
+Macro-ave CEAF precision : 20.1203022934
+Macro-ave CEAF F1 : 28.07058716
+OVER
+Trial 39 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 40 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 41 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 42 :
+Macro-ave B3 recall : 31.9165881678
+Macro-ave B3 precision : 96.8869557742
+Macro-ave B3 F1 : 45.9081614229
+Macro-ave MUC recall : 6.2301350957
+Macro-ave MUC precision : 33.0316742081
+Macro-ave MUC F1 : 7.9033452179
+Macro-ave CEAF recall : 55.5610603682
+Macro-ave CEAF precision : 20.1203022934
+Macro-ave CEAF F1 : 28.07058716
+OVER
+Trial 43 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 44 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 45 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 46 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 47 :
+Macro-ave B3 recall : 31.9165881678
+Macro-ave B3 precision : 96.8869557742
+Macro-ave B3 F1 : 45.9081614229
+Macro-ave MUC recall : 6.2301350957
+Macro-ave MUC precision : 33.0316742081
+Macro-ave MUC F1 : 7.9033452179
+Macro-ave CEAF recall : 55.5610603682
+Macro-ave CEAF precision : 20.1203022934
+Macro-ave CEAF F1 : 28.07058716
+OVER
+Trial 48 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 49 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
+Trial 50 :
+Macro-ave B3 recall : 29.170252868
+Macro-ave B3 precision : 99.9322441672
+Macro-ave B3 F1 : 44.2127424821
+Macro-ave MUC recall : 0.0499148192758
+Macro-ave MUC precision : 0.261269618887
+Macro-ave MUC F1 : 0.0838166965289
+Macro-ave CEAF recall : 52.8599332914
+Macro-ave CEAF precision : 16.083688674
+Macro-ave CEAF F1 : 24.1499850005
+OVER
+Trial 51 :
+Macro-ave B3 recall : 29.1589350589
+Macro-ave B3 precision : 100.0
+Macro-ave B3 F1 : 44.1991936147
+Macro-ave MUC recall : 0
+Macro-ave MUC precision : 0
+Macro-ave MUC F1 : 0
+Macro-ave CEAF recall : 52.8598048354
+Macro-ave CEAF precision : 16.0778409573
+Macro-ave CEAF F1 : 24.1412919059
+OVER
